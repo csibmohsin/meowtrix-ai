@@ -1,0 +1,12 @@
+﻿*.gguf
+models/*.gguf
+!models/.gitkeep
+!models/README.md
+data/*.db
+data/*.db-journal
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
+.vscode/
